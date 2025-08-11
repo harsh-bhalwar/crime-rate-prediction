@@ -227,8 +227,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help:
 - Open an issue on GitHub
-- Contact: [your-email@example.com]
-- Project Link: [https://github.com/yourusername/crime-rate-prediction](https://github.com/yourusername/crime-rate-prediction)
+- Contact: bhalwar14harsh05@gmail.com
+- Project Link: [https://github.com/harsh-bhalware/crime-rate-prediction](https://github.com/harsh-bhalwar/crime-rate-prediction)
 
 ---
 
